@@ -2,7 +2,7 @@ program ProjetoCalculaMedia;
 
 uses
   Vcl.Forms,
-  TelaPrincipal in '..\..\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\TelaPrincipal.pas' {TForm3},
+  TelaPrincipal,
   Vcl.Themes,
   Vcl.Styles;
 

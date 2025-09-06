@@ -2,12 +2,12 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2025/09/05 19:37:17.000.298,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2025/09/05 19:46:48.000.540,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\TelaPrincipal.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2025/09/05 19:46:48.000.540,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\TelaPrincipal.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
-    <Transaction>2025/09/05 19:47:04.000.041,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2025/09/05 19:46:48.000.540,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\TelaPrincipal.dfm</Transaction>
+    <Transaction>2025/09/05 19:46:48.000.540,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\TelaPrincipal.pas</Transaction>
+    <Transaction>2025/09/05 19:47:04.000.041,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\ProjetoCalculaMedia.dproj</Transaction>
     <Transaction>2025/09/05 23:58:06.000.947,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\ProjetoCalculaMedia.dproj</Transaction>
-    <Transaction>2025/09/06 01:31:55.000.541,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj</Transaction>
-    <Transaction>2025/09/06 01:42:06.000.004,C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj</Transaction>
-    <Transaction>2025/09/06 02:05:43.000.416,C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj</Transaction>
+    <Transaction>2025/09/06 03:11:09.000.099,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Prova Calculadora Media\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj</Transaction>
+    <Transaction>2025/09/06 03:36:24.512,C:\Users\Pedro\Desktop\GIT\Projeto-Calculadora-Medias-Escolares\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Desktop\ProvaProjetoDelphi\ProjetoCalculaMedia.dproj</Transaction>
+    <Transaction>2025/09/06 03:41:36.620,C:\Users\Pedro\Desktop\GIT\Projeto-Calculadora-Medias-Escolares\ProjetoCalculaMedia.dproj=C:\Users\Pedro\Desktop\GIT\Projeto-Calculadora-Medias-Escolares\ProjetoCalculaMedia.dproj</Transaction>
   </Transactions>
 </BorlandProject>
